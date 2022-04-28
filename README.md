@@ -25,12 +25,14 @@ Admin Access:
 
 
 User Access:
+
     Email: user@gmail.com
     Password: 0
     Or can register new user
 
 
-Sender Details:
-    Asomani Williams
-    0557321718
-    winnerwilliams1@gmail.come
+fOR MORE INFOR:
+
+Williams
+0557321718
+winnerwilliams1@gmail.come
